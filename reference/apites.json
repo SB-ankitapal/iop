@@ -306,6 +306,24 @@
         "x-stoplight": {
           "id": "f4b0s329uh4id"
         }
+      },
+      "asdfghjk": {
+        "title": "asdfghjk",
+        "x-stoplight": {
+          "id": "5ev5lmphgdjzr"
+        },
+        "x-tags": [
+          "utyrtert"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "x-stoplight": {
+              "id": "1zoaij5ivlfk6"
+            }
+          }
+        }
       }
     }
   }
